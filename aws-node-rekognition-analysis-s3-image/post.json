@@ -1,6 +1,7 @@
 {
   "body": {
     "bucket": "nordstrom-zedricka",
-    "imageName": "shirt1.jpg"
+    "imageName": "shirt1.jpg",
+    "imageName": "shirt2.jpg"
   }
 }
